@@ -31,3 +31,7 @@
 ## Дополнительно
 - https://github.com/pyenv/pyenv - управляем питонами
 - https://pip.pypa.io/en/stable/topics/secure-installs/ - как сделать pip более безопасным
+
+
+sudo apt install pipenv - установка pipenv
+
